@@ -1,2 +1,4 @@
 <?php
-echo 'About Page'
+echo 'About Page';
+
+echo 'Second line';
